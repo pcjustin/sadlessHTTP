@@ -1,0 +1,1 @@
+add_library(PaxHTTP STATIC client.c spinlock.c h2c.c)
